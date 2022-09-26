@@ -1,3 +1,4 @@
 loguru
 fastapi
 uvicorn
+python-multipart
